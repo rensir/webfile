@@ -2,3 +2,4 @@ zip=zip.so
 APC=apc.so
 curl
 memcached
+unzip
